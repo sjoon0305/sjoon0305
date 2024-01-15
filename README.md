@@ -6,5 +6,5 @@
 #### 📫 CONTACT
 - E-mail : **sjoon0305@naver.com**
 
-#### Seoyeon's Blog
+#### Seongjoon's Blog
 - [Blog](https://sjoon0305.github.io/sj_hub/)
